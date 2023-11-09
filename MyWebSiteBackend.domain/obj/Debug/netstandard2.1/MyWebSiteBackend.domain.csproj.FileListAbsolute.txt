@@ -1,0 +1,10 @@
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.domain\bin\Debug\netstandard2.1\MyWebSiteBackend.domain.deps.json
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.domain\bin\Debug\netstandard2.1\MyWebSiteBackend.domain.dll
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.domain\bin\Debug\netstandard2.1\MyWebSiteBackend.domain.pdb
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.domain\obj\Debug\netstandard2.1\MyWebSiteBackend.domain.csproj.AssemblyReference.cache
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.domain\obj\Debug\netstandard2.1\MyWebSiteBackend.domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.domain\obj\Debug\netstandard2.1\MyWebSiteBackend.domain.AssemblyInfoInputs.cache
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.domain\obj\Debug\netstandard2.1\MyWebSiteBackend.domain.AssemblyInfo.cs
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.domain\obj\Debug\netstandard2.1\MyWebSiteBackend.domain.csproj.CoreCompileInputs.cache
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.domain\obj\Debug\netstandard2.1\MyWebSiteBackend.domain.dll
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.domain\obj\Debug\netstandard2.1\MyWebSiteBackend.domain.pdb

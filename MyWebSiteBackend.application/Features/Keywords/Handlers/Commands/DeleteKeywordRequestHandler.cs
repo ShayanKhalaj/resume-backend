@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+using AutoMapper;
+using MediatR;
+using MyWebSiteBackend.application.common;
+using MyWebSiteBackend.application.Contracts.WebSiteContracts;
+using MyWebSiteBackend.application.Features.Keywords.Requests.Commands;
+
+namespace MyWebSiteBackend.application.Features.Keywords.Handlers.Commands
+{
+    public class DeleteKeywordRequestHandler:IRequestHandler<DeleteKeywordRequest,OperationResult>
+    {
+        private readonly IKeywordRepository repo;
+        private readonly IMapper mapper;
+
+        public DeleteKeywordRequestHandler(IKeywordRepository repo, IMapper mapper)
+        {
+            this.repo=repo;
+            this.mapper=mapper;
+        }
+        public async Task<OperationResult> Handle(DeleteKeywordRequest request, CancellationToken cancellationToken)
+        {
+            List<string> errors = new List<string>();
+            OperationResult op =new OperationResult("Delete Keyword");
+            if(!await repo.IsKeywordExistedByThisId(request.Id))
+            {
+                errors.Add("کلید واژه با این شناسه یافت نشد");
+                return op.Failed("حذف کلید واژه ناموفق", HttpStatusCode.NotFound, errors);
+            }
+            return await repo.DeleteAsync(request.Id);
+        }
+    }
+}

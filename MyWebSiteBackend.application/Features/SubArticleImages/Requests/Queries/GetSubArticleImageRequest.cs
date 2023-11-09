@@ -1,0 +1,10 @@
+﻿using MediatR;
+using MyWebSiteBackend.application.Dtos.WebSiteDtos.SubArticleImages;
+
+namespace MyWebSiteBackend.application.Features.SubArticleImages.Requests.Queries
+{
+    public class GetSubArticleImageRequest:IRequest<SubArticleImageDto>
+    {
+        public int Id { get; set; }
+    }
+}

@@ -1,0 +1,15 @@
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\bin\Debug\netstandard2.1\MyWebSiteBackend.persistance.deps.json
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\bin\Debug\netstandard2.1\MyWebSiteBackend.persistance.dll
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\bin\Debug\netstandard2.1\MyWebSiteBackend.persistance.pdb
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\bin\Debug\netstandard2.1\MyWebSiteBackend.application.dll
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\bin\Debug\netstandard2.1\MyWebSiteBackend.domain.dll
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\bin\Debug\netstandard2.1\MyWebSiteBackend.application.pdb
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\bin\Debug\netstandard2.1\MyWebSiteBackend.domain.pdb
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\obj\Debug\netstandard2.1\MyWebSiteBackend.persistance.csproj.AssemblyReference.cache
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\obj\Debug\netstandard2.1\MyWebSiteBackend.persistance.GeneratedMSBuildEditorConfig.editorconfig
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\obj\Debug\netstandard2.1\MyWebSiteBackend.persistance.AssemblyInfoInputs.cache
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\obj\Debug\netstandard2.1\MyWebSiteBackend.persistance.AssemblyInfo.cs
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\obj\Debug\netstandard2.1\MyWebSiteBackend.persistance.csproj.CoreCompileInputs.cache
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\obj\Debug\netstandard2.1\MyWebSiteBackend.persistance.csproj.CopyComplete
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\obj\Debug\netstandard2.1\MyWebSiteBackend.persistance.dll
+F:\FULLSTACK_WEBSITE_BACKEND\MyWebSiteBackend\MyWebSiteBackend.persistance\obj\Debug\netstandard2.1\MyWebSiteBackend.persistance.pdb
